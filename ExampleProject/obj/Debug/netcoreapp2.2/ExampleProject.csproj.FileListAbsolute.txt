@@ -1,0 +1,11 @@
+C:\Users\Adrian\source\repos\ExampleProject\ExampleProject\bin\Debug\netcoreapp2.2\ExampleProject.deps.json
+C:\Users\Adrian\source\repos\ExampleProject\ExampleProject\bin\Debug\netcoreapp2.2\ExampleProject.runtimeconfig.json
+C:\Users\Adrian\source\repos\ExampleProject\ExampleProject\bin\Debug\netcoreapp2.2\ExampleProject.runtimeconfig.dev.json
+C:\Users\Adrian\source\repos\ExampleProject\ExampleProject\bin\Debug\netcoreapp2.2\ExampleProject.dll
+C:\Users\Adrian\source\repos\ExampleProject\ExampleProject\bin\Debug\netcoreapp2.2\ExampleProject.pdb
+C:\Users\Adrian\source\repos\ExampleProject\ExampleProject\obj\Debug\netcoreapp2.2\ExampleProject.csproj.CoreCompileInputs.cache
+C:\Users\Adrian\source\repos\ExampleProject\ExampleProject\obj\Debug\netcoreapp2.2\ExampleProject.AssemblyInfoInputs.cache
+C:\Users\Adrian\source\repos\ExampleProject\ExampleProject\obj\Debug\netcoreapp2.2\ExampleProject.AssemblyInfo.cs
+C:\Users\Adrian\source\repos\ExampleProject\ExampleProject\obj\Debug\netcoreapp2.2\ExampleProject.dll
+C:\Users\Adrian\source\repos\ExampleProject\ExampleProject\obj\Debug\netcoreapp2.2\ExampleProject.pdb
+C:\Users\Adrian\source\repos\ExampleProject\ExampleProject\obj\Debug\netcoreapp2.2\ExampleProject.csprojAssemblyReference.cache
